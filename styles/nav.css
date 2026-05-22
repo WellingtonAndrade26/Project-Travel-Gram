@@ -4,10 +4,10 @@ nav {
     align-items:center;
 
     line-height: 0;
-    padding-block: 20px;
+   
 }
 
-nav ul{
+nav ul {
     style:none;
     display:flex;
     align-items:center;
@@ -19,6 +19,5 @@ nav ul{
 
 nav ul li:last-child img {
     width: 40px;
-    height: 40px;
-    
+    height: 40px;   
 }
